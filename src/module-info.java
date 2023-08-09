@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author GALVÃO
+ *
+ */
+module course {
+}
